@@ -2,8 +2,9 @@ import React from "react";
 import "./css/custominvite.css";
 
 const CustomInvite = () => {
+
   return (
-    <div className="custon-invite margin-top ">
+    <div className="custon-invite margin-top  ">
       <div className="invite-box">
         <h1>How To Customize An Invitation ?</h1>
         <p>

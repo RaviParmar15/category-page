@@ -3,8 +3,8 @@ import "./css/customerOrder.css";
 
 const CustomerOrder = () => {
   return (
-    <div className=" margin-tops">
-      <div className="cus-order">
+    <div className=" margin-tops ">
+      <div className="cus-order ">
         <div className="container">
         <div className="order-1">
           <h1>Do You Want to Make Custom Caricature?</h1>

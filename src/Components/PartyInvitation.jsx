@@ -54,6 +54,7 @@ const PartyInvitation = () => {
             template today, personalize it with a unique kitty party invitation
             message, and get ready to party with style!
           </p>
+          
         </div>
       </div>
     </div>
