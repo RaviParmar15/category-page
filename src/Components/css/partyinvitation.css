@@ -1,0 +1,40 @@
+.margin-top {
+    margin-top: 60px;
+}
+.invite h1{
+    text-align: start;
+    padding: 20px 0px;
+}
+
+.deatails {
+    width: 637px;
+    height: 509px;
+    top: 2128px;
+    left: 586px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 20px auto;
+
+}
+
+.deatails p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22.68px;
+    text-align: start;
+
+}
+.p{
+    margin-top: 20px;
+}
+
+.p p span {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 22.68px;
+    text-align: justified;
+    color: #5961F8;
+
+}

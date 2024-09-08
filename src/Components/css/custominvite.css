@@ -1,0 +1,63 @@
+.invite-box {
+    width: 1392px;
+    height: 399px;
+    top: 2737px;
+    left: 208px;
+    gap: 0px;
+    opacity: 0px;
+    margin: auto;
+    background-color: #ffffff;
+   
+}
+
+.custon-invite {
+    position: relative;
+}
+
+.invite-box h1 {
+    width: 389px;
+    height: 17px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 31.23px;
+    margin: auto;
+    padding: 40px 0px;
+
+
+}
+
+.invite-box p {
+    width: 954px;
+    height: 34px;
+    top: 2842.36px;
+    left: 427.86px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23.8px;
+    margin: 20px auto;
+
+}
+
+.templets {
+    position: absolute;
+    left: 12%;
+}
+
+.img-boxs {
+   display: grid;
+   grid-template-columns:auto auto auto;
+}
+
+.img-1 {
+    width: 335.52px;
+    height: 442.6px;
+    margin: 20px;
+    
+
+}

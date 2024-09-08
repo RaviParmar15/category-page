@@ -1,23 +1,32 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './Components/Header';
+import Filters from './Components/Filters';
+import Banner from './Components/Banner';
+import Slide from './Components/Slide';
+import Cart from './Components/Cart';
+import PartyInvitation from './Components/PartyInvitation';
+import CustomInvite from './Components/CustomInvite';
+import CustomerOrder from './Components/CustomerOrder';
+import Questions from './Components/Questions';
+import { Footer } from './Components/Footer';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+     <Header/>
+     <Filters/>
+     <Banner/>
+     <Slide/>
+     <Cart/>
+     <PartyInvitation/>
+     <CustomInvite/>
+     <CustomerOrder/>
+     <PartyInvitation/>
+     <Questions/>
+     <Footer/>
+
     </div>
   );
 }

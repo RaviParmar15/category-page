@@ -1,0 +1,43 @@
+.filters-div {
+    display: flex;
+    margin-top: 40px;
+}
+.container{
+    width: 1444px;
+}
+
+.btn {
+    margin-left: 90px;
+}
+
+.btn img {
+    width: 193px;
+    height: 40px;
+    top: 90px;
+    left: 223px;
+    opacity: 0px;
+    border: none;
+}
+
+.filter-nav {
+    padding: 0;
+}
+
+.filter-nav li {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.37px;
+    text-align: left;
+    color: #1C3048;
+    ;
+
+}
+
+.filter-nav img {
+    margin-left: 10px;
+
+}
+.css-9c0h7a-MuiButtonBase-root-MuiListItemButton-root span{
+    color: #ABB2C7;
+}

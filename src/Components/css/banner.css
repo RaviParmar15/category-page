@@ -1,0 +1,11 @@
+.banner-bg {
+    width: 100%;
+    height: 330px;
+    gap: 0px;
+    opacity: 0px;
+    align-items: end;
+
+}
+.rating {
+    margin-top: 20px;
+}

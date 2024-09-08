@@ -1,0 +1,54 @@
+.Invitation {
+    margin-top: 40px;
+}
+
+.card-div {
+    margin: 40px 90px;
+}
+
+.carts {
+    width: Hug (1, 300px)px;
+    height: Hug (1, 216px)px;
+    top: 658px;
+    left: 254px;
+    gap: 20px;
+    opacity: 0px;
+    margin-top: 40px;
+
+}
+
+button {
+    width: 142.99px;
+    height: 28px;
+    padding: 9px 16px 9px 16px;
+    gap: 10px;
+    border-radius: 6px;
+    border: none;
+    opacity: 0px;
+    font-weight: 400;
+    text-align: center;
+
+
+
+}
+
+.swiper-button-prev:after,
+.swiper-button-next:after {
+
+    color: #1C3048;
+    width: 5px;
+    top: 596px;
+    left: 231px;
+    gap: 0px;
+    opacity: 0px;
+    margin-right: 25px;
+
+}
+
+.swiper-pagination-fraction {
+    display: none;
+}
+
+.mySwiper {
+    margin-top: 40px;
+}

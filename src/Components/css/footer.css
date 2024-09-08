@@ -1,0 +1,112 @@
+.f-div {
+    width: 1392px;
+    height: 388.02px;
+    top: 5116px;
+    left: 208px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: #1C3048;
+    margin: auto;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 50px;
+}
+
+.Special,
+.Company,
+.Legal,
+.Get-the-free-app {
+    width: 278px;
+    height: 240px;
+}
+
+.heading {
+    width: 131px;
+    height: 22px;
+    top: 5182.55px;
+    left: 369.67px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 40px 0px 20px 0px;
+
+}
+
+.heading h1 {
+    font-family: inherit;
+    font-size: 15.95px;
+    font-weight: 500;
+    line-height: 21.75px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
+.Special li {
+    padding: 5px 0px;
+}
+.Company li {
+    padding: 5px 0px;
+
+
+}
+.Legal li{
+    padding: 5px 0px;
+
+}
+
+.Special,
+.Company,
+.Legal li {
+    font-family: inherit;
+    font-size: 11.6px;
+    font-weight: 400;
+    line-height: 21.75px;
+    text-align: left;
+    color: #FFFFFF;
+    list-style: none;
+
+
+}
+
+.media {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 0px;
+}
+
+.media img {
+    width: 100px;
+    height: 33.35px;
+    border: 0.72px;
+
+}
+
+.icons {
+    margin: 30px 0px;
+    display: flex;
+    align-items: start;
+    justify-content: start;
+
+}
+
+.icons img {
+    padding: 10px;
+}
+
+.copy-right {
+    margin-top: 100px;
+    border-top: 1px solid #FFFFFF;
+}
+
+.copy-right span {
+    font-family: inherit;
+    font-size: 11.6px;
+    font-weight: 400;
+    line-height: 21.75px;
+    text-align: left;
+    color: #FFFFFF;
+
+}
